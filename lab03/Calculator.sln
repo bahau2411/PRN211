@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GcdAndLcmCalc", "GcdAndLcmCalc\GcdAndLcmCalc.csproj", "{9A6EC080-5FA8-41C9-B0DB-14B5AA95A7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityCode", "SecurityCode\SecurityCode.csproj", "{692AF0FA-31F9-43F5-A836-EA9EBB389680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "CalculatorApp\CalculatorApp.csproj", "{A47B72F5-13B2-44F3-83E3-6357EF83B8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A6EC080-5FA8-41C9-B0DB-14B5AA95A7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6EC080-5FA8-41C9-B0DB-14B5AA95A7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6EC080-5FA8-41C9-B0DB-14B5AA95A7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6EC080-5FA8-41C9-B0DB-14B5AA95A7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692AF0FA-31F9-43F5-A836-EA9EBB389680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692AF0FA-31F9-43F5-A836-EA9EBB389680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692AF0FA-31F9-43F5-A836-EA9EBB389680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692AF0FA-31F9-43F5-A836-EA9EBB389680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47B72F5-13B2-44F3-83E3-6357EF83B8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47B72F5-13B2-44F3-83E3-6357EF83B8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47B72F5-13B2-44F3-83E3-6357EF83B8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47B72F5-13B2-44F3-83E3-6357EF83B8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
