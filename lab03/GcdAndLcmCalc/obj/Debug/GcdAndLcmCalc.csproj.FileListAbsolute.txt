@@ -1,0 +1,11 @@
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\bin\Debug\GcdAndLcmCalc.exe.config
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\bin\Debug\GcdAndLcmCalc.exe
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\bin\Debug\GcdAndLcmCalc.pdb
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.csproj.AssemblyReference.cache
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.Properties.Resources.resources
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.csproj.GenerateResource.cache
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.csproj.CoreCompileInputs.cache
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.exe
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.pdb
+C:\Users\tranb\Desktop\Calculator\GcdAndLcmCalc\obj\Debug\GcdAndLcmCalc.Calculator.resources

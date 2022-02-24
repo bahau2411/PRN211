@@ -1,0 +1,11 @@
+C:\Users\tranb\Desktop\Calculator\SecurityCode\bin\Debug\SecurityCode.exe.config
+C:\Users\tranb\Desktop\Calculator\SecurityCode\bin\Debug\SecurityCode.exe
+C:\Users\tranb\Desktop\Calculator\SecurityCode\bin\Debug\SecurityCode.pdb
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.csproj.AssemblyReference.cache
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.Properties.Resources.resources
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.csproj.GenerateResource.cache
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.csproj.CoreCompileInputs.cache
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.exe
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.pdb
+C:\Users\tranb\Desktop\Calculator\SecurityCode\obj\Debug\SecurityCode.Form1.resources
