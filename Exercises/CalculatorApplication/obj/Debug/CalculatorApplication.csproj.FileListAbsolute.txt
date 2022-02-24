@@ -1,0 +1,11 @@
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+C:\Users\tranb\Desktop\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
